@@ -1,0 +1,11 @@
+D:\projects\frequency-analysis\frequency-analysis\bin\Debug\netcoreapp3.1\frequency-analysis.exe
+D:\projects\frequency-analysis\frequency-analysis\bin\Debug\netcoreapp3.1\frequency-analysis.deps.json
+D:\projects\frequency-analysis\frequency-analysis\bin\Debug\netcoreapp3.1\frequency-analysis.runtimeconfig.json
+D:\projects\frequency-analysis\frequency-analysis\bin\Debug\netcoreapp3.1\frequency-analysis.runtimeconfig.dev.json
+D:\projects\frequency-analysis\frequency-analysis\bin\Debug\netcoreapp3.1\frequency-analysis.dll
+D:\projects\frequency-analysis\frequency-analysis\bin\Debug\netcoreapp3.1\frequency-analysis.pdb
+D:\projects\frequency-analysis\frequency-analysis\obj\Debug\netcoreapp3.1\frequency-analysis.csprojAssemblyReference.cache
+D:\projects\frequency-analysis\frequency-analysis\obj\Debug\netcoreapp3.1\frequency-analysis.AssemblyInfoInputs.cache
+D:\projects\frequency-analysis\frequency-analysis\obj\Debug\netcoreapp3.1\frequency-analysis.AssemblyInfo.cs
+D:\projects\frequency-analysis\frequency-analysis\obj\Debug\netcoreapp3.1\frequency-analysis.dll
+D:\projects\frequency-analysis\frequency-analysis\obj\Debug\netcoreapp3.1\frequency-analysis.pdb
